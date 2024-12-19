@@ -105,3 +105,14 @@ a#CL {
     border: none;
     text-decoration: underline;
 }
+
+a#sair {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    font-size: 17px;
+    color: white;
+    border: none;
+    text-decoration: underline;
+    z-index: 9999;
+}
